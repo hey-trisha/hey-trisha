@@ -1,4 +1,4 @@
-## Hi there 👋, Trisha Kumari!
+## Hi I'm 👋, Trisha Kumari!
 
 <!--
 **hey-trisha/hey-trisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
